@@ -1,3 +1,2 @@
 # Csharp
-C# Code
-This repository contains C# code I've written. 
+* This Repository consists of small, one file programs that I make. 
